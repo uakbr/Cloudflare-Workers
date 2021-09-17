@@ -1,1 +1,1 @@
-module.exports = require('@betahuhn/config').releaseMaster
+module.exports = require('@umair-akb/config').releaseMaster
