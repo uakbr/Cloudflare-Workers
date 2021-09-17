@@ -1,5 +1,5 @@
 {
-	"name": "@betahuhn/cf-worker-starter",
+	"name": "@umair-akb/cloudflare-workers",
 	"version": "1.0.26",
 	"description": "Starter Template for Cloudflare Workers with GitHub Actions CI and Automatic Releases",
 	"main": "index.js",
@@ -13,7 +13,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/betahuhn/workers-template.git"
+		"url": "git+https://github.com/umair-akb/workers-template.git"
 	},
 	"keywords": [
 		"template",
@@ -22,12 +22,12 @@
 		"typescript",
 		"nodejs"
 	],
-	"author": "Maximilian Schiller <schiller@mxis.ch>",
+	"author": "Umair Akbar <umair@tesla.com.ai>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/betahuhn/workers-template/issues"
+		"url": "https://github.com/umair-akb/workers-template/issues"
 	},
-	"homepage": "https://github.com/betahuhn/workers-template#readme",
+	"homepage": "https://github.com/umair-akb/workers-template#readme",
 	"devDependencies": {
 		"@cloudflare/workers-types": "^2.2.2",
 		"@cloudflare/wrangler": "^1.19.3",
@@ -43,7 +43,7 @@
 		"webpack-cli": "^4.8.0"
 	},
 	"dependencies": {
-		"@betahuhn/config": "^1.2.0",
+		"@umair-akb/config": "^1.2.0",
 		"@typescript-eslint/eslint-plugin": "^4.31.1",
 		"@typescript-eslint/parser": "^4.31.1",
 		"eslint": "^7.32.0"
